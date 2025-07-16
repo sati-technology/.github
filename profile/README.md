@@ -113,13 +113,14 @@ We're not just another consultancy. We're your **strategic technology partner**,
   <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100" alt="AWS Certified Developer Associate"/>
   <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Certified Solutions Architect Associate"/>
   <img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100" alt="AWS Certified SysOps Administrator Associate"/>
-  <img src="https://images.credly.com/images/53adf209-92aa-4d15-9aea-d3c7d8da1959/image.png" width="100" alt="AWS Certified AI Practitioner - Early Adopter"/>
+  <img src="https://images.credly.com/images/02d1c87a-6a06-4b28-b9ff-f5c811e5279e/image.png" width="100" alt="AWS Certified AI Practitioner - Early Adopter"/>
+  <img src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="100" alt="AWS Certified AI Practitioner - Foundational"/>
 </div>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sati-technology&theme=dark&hide_border=true&background=1a1a1a&ring=0077FF&fire=0077FF&currStreakLabel=0077FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alldev247365&theme=dark&hide_border=true&background=1a1a1a&ring=0077FF&fire=0077FF&currStreakLabel=0077FF" alt="GitHub Streak" />
 </div>
 
 ## 📝 Latest Blog Posts
