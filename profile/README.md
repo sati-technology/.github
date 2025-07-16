@@ -10,7 +10,7 @@
   <br/>
   
   [![Website](https://img.shields.io/badge/Website-satitechnology.com-0077FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satitechnology.com)
-  [![AWS Partner](https://img.shields.io/badge/AWS-Certified_Partner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+  [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Partner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
   [![Book a Call](https://img.shields.io/badge/Book_a_Call-Free_Consultation-00D4AA?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/jpursati)
   
 </div>
