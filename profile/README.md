@@ -134,9 +134,9 @@ We're not just another consultancy. We're your **strategic technology partner**,
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alldev247365&theme=dark&hide_border=true&background=1a1a1a&ring=0077FF&fire=0077FF&currStreakLabel=0077FF" alt="GitHub Streak" />
   
-  <img src="https://github-readme-stats.vercel.app/api?username=alldev247365&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=0077FF&text_color=ffffff&icon_color=0077FF&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alldev247365&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=0077FF&text_color=ffffff&icon_color=0077FF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alldev247365&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=0077FF&text_color=ffffff" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alldev247365&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=0077FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 📝 Latest Blog Posts
