@@ -1,4 +1,4 @@
-# 🚀 Sati Technology
+# 🚀 Sati Technology, Inc
 
 <div align="center">
   
