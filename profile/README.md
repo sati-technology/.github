@@ -10,7 +10,7 @@
   <br/>
   
   [![Website](https://img.shields.io/badge/Website-satitechnology.com-0077FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://satitechnology.com)
-  [![AWS Certified](https://img.shields.io/badge/AWS-Certified_Partner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
+  [![AWS Certified](https://img.shields.io/badge/AWS-6x_Certified-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](#-aws-certifications)
   [![Book a Call](https://img.shields.io/badge/Book_a_Call-Free_Consultation-00D4AA?style=for-the-badge&logo=calendly&logoColor=white)](https://calendly.com/jpursati)
   
 </div>
@@ -127,16 +127,6 @@ We're not just another consultancy. We're your **strategic technology partner**,
   <a href="https://www.credly.com/badges/4b28640b-9abd-4611-b352-ffbabcc45d07/public_url">
     <img src="https://satitechnology.com/certifications/aws-certified-ai-practitioner.png" width="100" alt="AWS Certified AI Practitioner"/>
   </a>
-</div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alldev247365&theme=dark&hide_border=true&background=1a1a1a&ring=0077FF&fire=0077FF&currStreakLabel=0077FF" alt="GitHub Streak" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=alldev247365&show_icons=true&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=0077FF&text_color=ffffff&icon_color=0077FF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alldev247365&layout=compact&theme=dark&hide_border=true&bg_color=1a1a1a&title_color=0077FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
 </div>
 
 ## 📝 Latest Blog Posts
