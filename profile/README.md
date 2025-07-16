@@ -109,12 +109,24 @@ We're not just another consultancy. We're your **strategic technology partner**,
 ## 🏅 AWS Certifications
 
 <div align="center">
-  <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" width="100" alt="AWS Certified Cloud Practitioner"/>
-  <img src="https://images.credly.com/images/b9feab85-1a43-4f6c-99a5-631b88d5461b/image.png" width="100" alt="AWS Certified Developer Associate"/>
-  <img src="https://images.credly.com/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" width="100" alt="AWS Certified Solutions Architect Associate"/>
-  <img src="https://images.credly.com/images/f0d3fbb9-bfa7-4017-9989-7bde8eaf42b1/image.png" width="100" alt="AWS Certified SysOps Administrator Associate"/>
-  <img src="https://images.credly.com/images/02d1c87a-6a06-4b28-b9ff-f5c811e5279e/image.png" width="100" alt="AWS Certified AI Practitioner - Early Adopter"/>
-  <img src="https://images.credly.com/images/71c579e0-51fd-4247-b493-d2fa8167157a/image.png" width="100" alt="AWS Certified AI Practitioner - Foundational"/>
+  <a href="https://www.credly.com/badges/ba3d9514-e17c-4831-a872-8e85fed5fa50/public_url">
+    <img src="https://sati-technology.com/certifications/aws-certified-cloud-practitioner.png" width="100" alt="AWS Certified Cloud Practitioner"/>
+  </a>
+  <a href="https://www.credly.com/badges/c74a44f1-25af-4212-9b1c-ae44f2c5db97/public_url">
+    <img src="https://sati-technology.com/certifications/aws-certified-developer-associate.png" width="100" alt="AWS Certified Developer Associate"/>
+  </a>
+  <a href="https://www.credly.com/badges/268d20bc-83b6-41f2-99a9-45c488a49329/public_url">
+    <img src="https://sati-technology.com/certifications/aws-certified-solutions-architect-associate.png" width="100" alt="AWS Certified Solutions Architect Associate"/>
+  </a>
+  <a href="https://www.credly.com/badges/645aa4ea-c733-4f73-837d-fe79731ffa3a/public_url">
+    <img src="https://sati-technology.com/certifications/aws-certified-sysops-administrator-associate.png" width="100" alt="AWS Certified SysOps Administrator Associate"/>
+  </a>
+  <a href="https://www.credly.com/badges/347d17c8-0c82-4f00-add7-0cdc9e981037/public_url">
+    <img src="https://sati-technology.com/certifications/aws-certified-ai-practitioner-early-adopter.png" width="100" alt="AWS Certified AI Practitioner - Early Adopter"/>
+  </a>
+  <a href="https://www.credly.com/badges/4b28640b-9abd-4611-b352-ffbabcc45d07/public_url">
+    <img src="https://sati-technology.com/certifications/aws-certified-ai-practitioner.png" width="100" alt="AWS Certified AI Practitioner"/>
+  </a>
 </div>
 
 ## 📊 GitHub Stats
