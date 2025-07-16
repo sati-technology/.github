@@ -141,6 +141,14 @@ We're not just another consultancy. We're your **strategic technology partner**,
 
 ## 💬 What Clients Say
 
+### ⭐ Featured Testimonial
+
+> "Sati Technology tackled our complex architecture head-on, modernizing our infrastructure and cutting our AWS costs by 20%. They don't just write code – they understand our business needs and deliver solutions that drive real results. Their proactive, customer-centric approach and deep expertise make them an invaluable technology partner."
+>
+> **— Jon Kleu, CEO at SNP Therapeutics, Inc.** ⭐⭐⭐⭐⭐
+
+### 🏆 AWS IQ Reviews
+
 > "Amazing service and help with my problem. Was always available and went above and beyond of what was needed. I will definitely work with Sati Technology again in the future!"
 >
 > **— Startup Founder, Charge and Go** ⭐⭐⭐⭐⭐
@@ -149,9 +157,21 @@ We're not just another consultancy. We're your **strategic technology partner**,
 >
 > **— Enterprise Client, Athinia** ⭐⭐⭐⭐⭐
 
+> "Justin was prompt with his responses and flexable with our schedules and timelines. He was knowledgeable and clearly communicated his understanding of our project. Justin's friendly and open nature made it easy and enjoyable to work with him. He was a big help and I would gladly work with him again."
+>
+> **— Tech Lead, SNPT-Dev** ⭐⭐⭐⭐⭐
+
 > "Justin was great, always responsive, always on top of everything, 100% want him in my corner if I have an issue"
 >
 > **— Zack B., FlyLine** ⭐⭐⭐⭐⭐
+
+> "Justin is very professional and knowledgeable, and his pricing is quite reasonable. In addition to getting the job done quickly, he provided reference material to help me with future issues. He has an excellent understanding of Amazon Cloud Services and I would definitely recommend him."
+>
+> **— Keagan, AWS Customer** ⭐⭐⭐⭐⭐
+
+> "Very helpful, I provided him with a problem that appeared much easier than it actually was. Despite this he was willing to change, adapt and put far more time than initially anticipated. While maintaining a professional and reasonable stance throughout. Adjusted to a deadline that was added late to the project and continued to improve on the project even after the deadline and requirements were met. Would definitely recommend working with him."
+>
+> **— Jeffery K., AWS Customer** ⭐⭐⭐⭐⭐
 
 ## 🤝 Let's Build Something Amazing Together
 
